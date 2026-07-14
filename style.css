@@ -1,0 +1,42 @@
+body{
+    background:#0f172a;
+    color:#fff;
+    font-family:Arial,sans-serif;
+    margin:0;
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+    color:#00ff99;
+}
+
+h2{
+    background:#1e293b;
+    padding:12px;
+    border-radius:10px;
+}
+
+p{
+    font-size:16px;
+}
+
+button{
+    width:100%;
+    background:#00c853;
+    color:white;
+    border:none;
+    padding:14px;
+    border-radius:10px;
+    font-size:18px;
+    margin:10px 0 20px;
+}
+
+button:hover{
+    background:#00a844;
+}
+
+hr{
+    border:1px solid #333;
+    margin:25px 0;
+}
